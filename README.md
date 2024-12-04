@@ -1,7 +1,11 @@
 ﻿# Playground Godot
 
 ### Localization
-see [Localization Readme](./localization/README.md)
+
+![demo](./wiki/demo-localization.mp4)
+
+* [Localization (using DotNet) Readme](./examples/localization-dotnet)
+* [Localization using GD Script](./examples/localization-gd-script)
 
 ### Version Control
 * commit the `*.import` files
