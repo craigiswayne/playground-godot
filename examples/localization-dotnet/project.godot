@@ -17,7 +17,7 @@ config/icon="res://icon.svg"
 
 [dotnet]
 
-project/assembly_name="Sample Godot Game"
+project/assembly_name="LocalizationDotNet"
 
 [internationalization]
 
