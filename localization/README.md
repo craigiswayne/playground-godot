@@ -1,6 +1,8 @@
 ﻿# Localization:
 
-![demo](../wiki/demo-localization.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/craigiswayne/playground-godot/raw/refs/heads/main/wiki/demo-localization.mp4" type="video/mp4">
+</video>
 
 https://www.youtube.com/watch?v=v0tJPsNNOM8
 
