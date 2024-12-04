@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://b87h38h33inoc"
+
+[deps]
+
+files=["res://localization/localization.en.translation", "res://localization/localization.cn.translation", "res://localization/localization.tw.translation", "res://localization/localization.ja.translation", "res://localization/localization.ko.translation", "res://localization/localization.id.translation", "res://localization/localization.th.translation", "res://localization/localization.vi.translation", "res://localization/localization.pt.translation", "res://localization/localization.es.translation", "res://localization/localization.ru.translation", "res://localization/localization.fr.translation", "res://localization/localization.sv.translation", "res://localization/localization.de.translation", "res://localization/localization.fi.translation", "res://localization/localization.nb.translation", "res://localization/localization.tr.translation", "res://localization/localization.lv.translation", "res://localization/localization.et.translation", "res://localization/localization.lt.translation", "res://localization/localization.pl.translation", "res://localization/localization.nl.translation", "res://localization/localization.ro.translation", "res://localization/localization.gp.translation", "res://localization/localization.sx.translation", "res://localization/localization.el.translation", "res://localization/localization.ys.translation"]
+
+source_file="res://localization/localization.csv"
+dest_files=["res://localization/localization.en.translation", "res://localization/localization.cn.translation", "res://localization/localization.tw.translation", "res://localization/localization.ja.translation", "res://localization/localization.ko.translation", "res://localization/localization.id.translation", "res://localization/localization.th.translation", "res://localization/localization.vi.translation", "res://localization/localization.pt.translation", "res://localization/localization.es.translation", "res://localization/localization.ru.translation", "res://localization/localization.fr.translation", "res://localization/localization.sv.translation", "res://localization/localization.de.translation", "res://localization/localization.fi.translation", "res://localization/localization.nb.translation", "res://localization/localization.tr.translation", "res://localization/localization.lv.translation", "res://localization/localization.et.translation", "res://localization/localization.lt.translation", "res://localization/localization.pl.translation", "res://localization/localization.nl.translation", "res://localization/localization.ro.translation", "res://localization/localization.gp.translation", "res://localization/localization.sx.translation", "res://localization/localization.el.translation", "res://localization/localization.ys.translation"]
+
+[params]
+
+compress=true
+delimiter=0
