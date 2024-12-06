@@ -1,7 +1,8 @@
-using Godot;
 using System.Linq;
-using System.Text;
+using Godot;
 using Godot.Collections;
+
+namespace LocalizationAPIDotNet;
 
 /// <summary>
 /// <para>Fetches Latvian translations from a server and injects it into the game</para>
