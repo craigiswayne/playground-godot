@@ -5,6 +5,8 @@
 
 [node name="main" type="Node2D"]
 
+[node name="HTTPRequest" type="HTTPRequest" parent="."]
+
 [node name="Label" type="Label" parent="."]
 offset_left = 522.0
 offset_top = 359.0
