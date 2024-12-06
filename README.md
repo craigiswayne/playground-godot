@@ -1,12 +1,24 @@
 ﻿# Playground Godot
 
+---
+
 ### Localization
 
-![demo](./wiki/demo-localization.mp4)
+<video width="320" height="240" controls>
+  <source src="wiki/demo-localization.mp4" type="video/mp4">
+</video>
 
-* [Localization (using DotNet) Readme](./examples/localization-dotnet)
-* [Localization using GD Script](./examples/localization-gd-script)
+* [Localization (GD Script)](./examples/localization/localization-gd-script)
+* [Localization (DotNet)](./examples/localization/localization-dotnet)
+* [Localization from API (DotNet)](./examples/localization/localization-api-dotnet)
+
+---
 
 ### Version Control
 * commit the `*.import` files
-* https://docs.godotengine.org/en/4.0/tutorials/assets_pipeline/import_process.html#files-generated
+  * https://docs.godotengine.org/en/4.0/tutorials/assets_pipeline/import_process.html#files-generated
+
+---
+
+### Resources
+* https://github.com/godotengine/awesome-godot

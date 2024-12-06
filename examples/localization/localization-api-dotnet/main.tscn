@@ -1,0 +1,34 @@
+[gd_scene load_steps=3 format=3 uid="uid://d1nrjvmsm285q"]
+
+[ext_resource type="Script" path="res://LocalizationToggler.cs" id="1_005cu"]
+[ext_resource type="Script" path="res://LocalizationInjector.cs" id="1_006cu"]
+
+[node name="main" type="Node2D"]
+
+[node name="HTTPRequest" type="HTTPRequest" parent="."]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 522.0
+offset_top = 359.0
+offset_right = 594.0
+offset_bottom = 382.0
+text = "BALANCE"
+
+[node name="LocalizationToggler" type="Button" parent="."]
+offset_left = 476.0
+offset_top = 457.0
+offset_right = 649.0
+offset_bottom = 488.0
+text = "Toggle Languages"
+script = ExtResource("1_005cu")
+
+[node name="LocalizationInjector" type="Button" parent="."]
+offset_left = 685.0
+offset_top = 458.0
+offset_right = 858.0
+offset_bottom = 489.0
+text = "Inject Latvian"
+script = ExtResource("1_006cu")
+
+[connection signal="button_up" from="LocalizationToggler" to="LocalizationToggler" method="ButtonUp"]
+[connection signal="button_up" from="LocalizationInjector" to="LocalizationInjector" method="ButtonUp"]
